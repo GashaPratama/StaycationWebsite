@@ -1,2 +1,1 @@
-# StaycationWebsite
-Website for Staycation option
+For best please install the image!!
